@@ -1,5 +1,4 @@
 # TUGAS PRAKTIKUM PWL - REACT JS PORTOFOLIO
-Tugas Besar Pemrogramman Web Lanjut
 
 ## Identitas:
 - Kevin Tanuwijaya (119140207)
