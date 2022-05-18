@@ -9,4 +9,4 @@ Portofolio sederhana dengan react js
 ### File build ada di branch gh-pages
 
 ### Link gh-pages: 
-http://tubespemweb.xyz
+https://kevin207.github.io/Prak2-PWL-ReactJS/
