@@ -17,7 +17,7 @@ const AddComment = () => {
     formData.append("nama", inputs.nama);
     formData.append("komentar", inputs.komentar);
 
-    await axios.post("http://localhost:8000/api/add-comment", formData).then(function (response) {
+    await axios.post("https://aqueous-sands-36633.herokuapp.com/api/add-comment", formData).then(function (response) {
       if (response.data.status === 200) {
         swal({
           title: "Succes!",

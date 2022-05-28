@@ -15,7 +15,7 @@ const Project = () => {
   }, []);
 
   async function fetchData() {
-    await axios.get("http://localhost:8000/api/comments").then(function (response) {
+    await axios.get("https://aqueous-sands-36633.herokuapp.com/api/comments").then(function (response) {
       if (response.data.status === 200) {
         setComments(response.data.comments);
         console.log(response.data.comments);
